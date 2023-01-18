@@ -4,9 +4,10 @@ Code exploring the mechanics of speech to text technologies
 
 To load:
 1. open a new terminal window (control+alt+t)
-2. cd WordCloud/AzureSpeechCC
-3. dotnet run
-4. To exit program hit Control+z
+2. Make full screen (fn+F11)
+3. cd WordCloud/AzureSpeechCC
+4. dotnet run
+5. To exit program hit Control+z
 
 
 If making changes:
